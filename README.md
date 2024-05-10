@@ -26,16 +26,7 @@ Develop a model to predict customer churn for a subscription-based service or bu
 
 Implement an AI model to classify SMS messages as spam or legitimate. Techniques like TF-IDF or word embeddings with classifiers such as Naive Bayes, Logistic Regression, or Support Vector Machines can be utilized to identify spam messages.
 
----
-
-## Task 5: Handwritten Text Generation ✍️
-
-Train a character-level recurrent neural network (RNN) to generate handwritten-like text. Use a dataset of handwritten text examples to train the model and let it generate new text based on the learned patterns.
-
----
 
 **All datasets used in these tasks are sourced from Kaggle.**
 
 Feel free to explore each project folder for detailed implementations and results. Contributions and feedback are welcome!
-
-
